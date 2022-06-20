@@ -4,7 +4,7 @@
 - 🐶 dog!! dog!! dog!! dog!! dog!!
 - 🐍 snake!! snake!! snake!! snake!!
 - 😺😺😺 cats!! cats!! cats!! cats!!
-- 🙏 I hope no one will ever see this README file
+- 🙏 I hope no one will ever read this README file
 
 <!---
 yun-9/yun-9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
